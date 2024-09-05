@@ -1,0 +1,1 @@
+Invoke-RestMethod -Uri "https://api.telegram.org/bot7439846222:AAGnlbvwIcQU2sJlSZVoogpLeAhSlg6AN1Y/setWebhook" -Method Post -Body @{url="https://915a-2804-1b3-ae83-b34c-f45a-3e57-6ef6-e915.ngrok-free.app/webhook"}
